@@ -9,7 +9,10 @@
           , a = n(3)
           , o = n.n(a)
           , i = (n(9),
-        n.p + "static/media/logo.6ce24c58.svg");
+          "static/media/logo.6ce24c58.svg"
+        // n.p + "static/media/logo.6ce24c58.svg"
+        );
+        // console.log("static/media/logo.6ce24c58.svg");
         n(10);
         var l = function() {
             return Object(c.jsx)("div", {
